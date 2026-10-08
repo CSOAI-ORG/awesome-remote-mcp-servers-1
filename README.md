@@ -1014,6 +1014,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Court Rules](https://www.courtrules.app) `https://mcp.courtrules.app/mcp`
   [![Court Rules MCP connector](https://glama.ai/mcp/connectors/app.courtrules/court-rules/badges/score.svg)](https://glama.ai/mcp/connectors/app.courtrules/court-rules)
   🔓 - US judge filing rules, court holidays and enforcement data; free samples, OAuth for full access.
+- [Council of AI GSPC](https://councilof.ai) `https://councilof.ai/mcp/`
+  [![Council of AI GSPC MCP connector](https://glama.ai/mcp/connectors/ai.councilof/gspc/badges/score.svg)](https://glama.ai/mcp/connectors/ai.councilof/gspc)
+  🔓 - Signed AI-governance measurements: GSPC board, Ed25519 card verification, x402-metered evidence bundles.
 - [LibreJustice](https://librejustice.fr) `https://librejustice.fr/mcp`
   [![LibreJustice MCP connector](https://glama.ai/mcp/connectors/fr.librejustice/librejustice/badges/score.svg)](https://glama.ai/mcp/connectors/fr.librejustice/librejustice)
   🔐 - French and European case law and legislation, searched in plain language and linked article by article.
